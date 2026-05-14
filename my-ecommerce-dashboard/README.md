@@ -25,13 +25,16 @@
     npm run dev
     The application will be available at http://localhost:3000.
 4. **Testing Credentials**
+    ```bash
     To access the protected dashboard and store features, please use the following credentials:  
     Username: admin
     Password: 123456
-5. **Key Deliverables**
+5. **Key Deliverables** 
+    ```bash
     Architecture: Component-based paradigm.  
     UI/UX: Modern, responsive design following midterm standards.  
     Persistence: Cart data is synchronized across the application.
 6. **Team Information**
+    ```bash
     Member 1: [Nguyễn Lê Phú Huy] - [524H0090]   
     Member 2: [Nguyễn Minh Tiến] - [524H0128]
