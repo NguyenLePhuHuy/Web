@@ -20,18 +20,18 @@
 2. **Install dependencies:**
     ```bash
     npm install
-3. ***Run the development server:**
+3. **Run the development server:**
     ```bash
     npm run dev
     The application will be available at http://localhost:3000.
-**Testing Credentials**
+4.**Testing Credentials**
     To access the protected dashboard and store features, please use the following credentials:  
     Username: admin
     Password: 123456
-**Key Deliverables**
+5.**Key Deliverables**
     Architecture: Component-based paradigm.  
     UI/UX: Modern, responsive design following midterm standards.  
     Persistence: Cart data is synchronized across the application.
-**Team Information**
+6.**Team Information**
     Member 1: [Nguyễn Lê Phú Huy] - [524H0090]   
     Member 2: [Nguyễn Minh Tiến] - [524H0128]
