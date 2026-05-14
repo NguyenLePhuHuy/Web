@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tech Store - Modern Front-End Ecosystem Dashboard
 
-## Getting Started
+[cite_start]This project is a midterm essay for the **Web Programming & Applications (503073)** course[cite: 1, 2]. [cite_start]It demonstrates a modern e-commerce dashboard built with **Next.js**, focusing on SEO optimization, Server-Side Rendering (SSR), and global state management[cite: 13, 16].
 
-First, run the development server:
+## 🚀 Technologies Applied
+[cite_start]As per the Topic 2 requirements[cite: 13, 16]:
+* [cite_start]**Framework:** Next.js 15 (App Router) [cite: 13]
+* [cite_start]**Rendering:** Server-Side Rendering (SSR) for SEO optimization [cite: 13]
+* [cite_start]**State Management:** Zustand (Global shopping cart state) [cite: 13, 16]
+* [cite_start]**Styling:** Tailwind CSS [cite: 13]
+* **Language:** TypeScript
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Setup & Installation
+[cite_start]Follow these steps to run the project locally:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository:**
+   ```bash
+   git clone: https://github.com/NguyenLePhuHuy/Web.git
+   cd my-ecommerce-dashboard
+2. **Install dependencies:**
+    ```bash
+    npm install
+3. ***Run the development server:**
+    ```bash
+    npm run dev
+    The application will be available at http://localhost:3000.
+**Testing Credentials**
+    To access the protected dashboard and store features, please use the following credentials:  
+    Username: admin
+    Password: 123456
+**Key Deliverables**
+    Architecture: Component-based paradigm.  
+    UI/UX: Modern, responsive design following midterm standards.  
+    Persistence: Cart data is synchronized across the application.
+**Team Information**
+    Member 1: [Nguyễn Lê Phú Huy] - [524H0090]   
+    Member 2: [Nguyễn Minh Tiến] - [524H0128]
